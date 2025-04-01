@@ -33,7 +33,7 @@ publishing {
         release(MavenPublication) {
             group = "com.github.s1204IT"
             artifactId = "BenesseExtension-CTZ"
-            version = "1.0"
+            version = "1.1"
 
             afterEvaluate {
                 from components.release
